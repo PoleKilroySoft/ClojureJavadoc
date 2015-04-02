@@ -22,5 +22,5 @@ the zipped version of the Javadocs.
 \[[release](https://github.com/clojure/clojure/releases/tag/clojure-1.3.0)]
 \[[zipped JavaDoc](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.3.0.zip)]
 
-## Licence
-As the data are generated from Clojure site the licence is the same as [Clojure](https://github.com/clojure/clojure) say [Eclipse Public License 1.0](http://opensource.org/licenses/eclipse-1.0.php)
+## License
+As the data are generated from Clojure site the license is the same as [Clojure](https://github.com/clojure/clojure) say [Eclipse Public License 1.0](http://opensource.org/licenses/eclipse-1.0.php)
