@@ -10,3 +10,11 @@ Complete javadoc for Clojure JAR access
 \[[release](https://github.com/clojure/clojure/releases/tag/clojure-1.6.0)]
 \[[zipped JavaDoc](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.6.0.zip)]
 * [Clojure 1.5.1](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.5.1/) on 10 Mar 2013.
+\[[release](https://github.com/clojure/clojure/releases/tag/clojure-1.5.1)]
+\[[zipped JavaDoc](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.5.1.zip)]
+* [Clojure 1.4.0](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.4.0/) on 15 Apr 2012.
+\[[release](https://github.com/clojure/clojure/releases/tag/clojure-1.4.0)]
+\[[zipped JavaDoc](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.4.0.zip)]
+* [Clojure 1.3.0](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.3.0/) on 23 Sep 2011.
+\[[release](https://github.com/clojure/clojure/releases/tag/clojure-1.3.0)]
+\[[zipped JavaDoc](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.3.0.zip)]
