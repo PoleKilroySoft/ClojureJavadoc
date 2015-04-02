@@ -1,8 +1,11 @@
 # ClojureJavadoc
 Complete javadoc for Clojure JAR access
 
-## Versions 
+Link to the site : http://PoleKilroySoft.gitub.io/ClojureJavadoc
 
+## Versions 
+Here you have the links to the various version of Clojure's Javadocs, the release of the sources and
+the zipped version of the Javadocs.
 * [Clojure 1.7.0](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.7.0/) Currently clojure-1.7.0-alpha6 on 1 Apr 2015.
 \[[release](https://github.com/clojure/clojure/releases/tag/clojure-1.7.0-alpha6)]
 \[[zipped JavaDoc](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.7.0.zip)]
