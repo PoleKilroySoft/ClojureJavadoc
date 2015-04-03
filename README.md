@@ -1,3 +1,7 @@
+<a href="http://about.me/ivan_pierre" >
+                    <img src="images/ivanpierrebig.jpg" alt="Ivan Pierre" 
+                         style="border:solid 4px lightblue; border-radius: 20px;">
+                </a>
 # ClojureJavadoc
 Complete javadoc for Clojure JAR access
 
