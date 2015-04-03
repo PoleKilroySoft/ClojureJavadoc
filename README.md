@@ -15,27 +15,27 @@ Currently clojure-1.7.0-alpha6 on 1 Apr 2015.
 \[[release](https://github.com/clojure/clojure/releases/tag/clojure-1.7.0-alpha6)]
 \[[zipped JavaDoc](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.7.0.zip)]
 * [Clojure 1.6.0](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.6.0/) 
-on 25 Mar 2014.
+On 25 Mar 2014.
 \[[release](https://github.com/clojure/clojure/releases/tag/clojure-1.6.0)]
 \[[zipped JavaDoc](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.6.0.zip)]
 * [Clojure 1.5.1](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.5.1/) 
-on 10 Mar 2013.
+On 10 Mar 2013.
 \[[release](https://github.com/clojure/clojure/releases/tag/clojure-1.5.1)]
 \[[zipped JavaDoc](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.5.1.zip)]
 * [Clojure 1.4.0](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.4.0/) 
-on 15 Apr 2012.
+On 15 Apr 2012.
 \[[release](https://github.com/clojure/clojure/releases/tag/clojure-1.4.0)]
 \[[zipped JavaDoc](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.4.0.zip)]
 * [Clojure 1.3.0](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.3.0/) 
-on 23 Sep 2011.
+On 23 Sep 2011.
 \[[release](https://github.com/clojure/clojure/releases/tag/clojure-1.3.0)]
 \[[zipped JavaDoc](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.3.0.zip)]
 * [Clojure 1.2.1](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.2.1/) 
-on 11 Mar 2011.
+On 11 Mar 2011.
 \[[release](https://github.com/clojure/clojure/releases/tag/clojure-1.2.1)]
 \[[zipped JavaDoc](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.2.1.zip)]
 * [Clojure 1.1.0](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.1.0/) 
-on 4 Jan 2010.
+On 4 Jan 2010.
 \[[release](https://github.com/clojure/clojure/releases/tag/clojure-1.1.0)]
 \[[zipped JavaDoc](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.1.0.zip)]
 * [Clojure 1.0](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.0/) 
