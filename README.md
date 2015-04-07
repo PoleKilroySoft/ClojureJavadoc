@@ -10,6 +10,8 @@ Link to the site : http://PoleKilroySoft.github.io/ClojureJavadoc
 ## Versions 
 Here you have the links to the various versions of Clojure's Javadocs, the release of Clojure's 
 sources and the zipped version of the Javadocs.
+
+The Javadocs are generated for protected and public classes and members.
 * [Clojure 1.7.0](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.7.0/) 
 Currently clojure-1.7.0-alpha6 on 1 Apr 2015.
 \[[release](https://github.com/clojure/clojure/releases/tag/clojure-1.7.0-alpha6)]
