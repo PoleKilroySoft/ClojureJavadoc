@@ -11,11 +11,16 @@ Link to the site : http://PoleKilroySoft.github.io/ClojureJavadoc
 Here you have the links to the various versions of Clojure's Javadocs, the release of Clojure's 
 sources and the zipped version of the Javadocs.
 
+<p>You can find all versions of Clojure in the <a href="https://repo1.maven.org/maven2/org/clojure/clojure/">Maven repository</a> 
+and changes description between versions on 
+<a href="https://github.com/clojure/clojure/blob/master/changes.md">Clojure GitHub</a>
+</p>
+
 The Javadocs are generated for protected and public classes and members.
-* [Clojure 1.7.0](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.7.0/) 
-Currently clojure-1.7.0-alpha6 on 1 Apr 2015.
-\[[release](https://github.com/clojure/clojure/releases/tag/clojure-1.7.0-alpha6)]
-\[[zipped JavaDoc](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.7.0.zip)]
+* [Clojure 1.7.0](http://polekilroysoft.github.io/ClojureJavadoc/clojure-1.7.0-RC1/) 
+Currently clojure-1.7.0-alpha6 on 22 May 2015.
+\[[release](https://github.com/clojure/clojure/releases/tag/clojure-1.7.0-RC1)]
+\[[zipped JavaDoc](http://polekilroysoft.github.io/ClojureJavadoc/clojure-1.7.0-RC1.jar)]
 * [Clojure 1.6.0](http://polekilroysoft.github.io/ClojureJavadoc/clojure1.6.0/) 
 On 25 Mar 2014.
 \[[release](https://github.com/clojure/clojure/releases/tag/clojure-1.6.0)]
