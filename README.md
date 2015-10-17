@@ -6,21 +6,15 @@
 Complete Javadoc for Clojure's JAR access
 
 You can now find the whole complete JavaDocs for all versions of Clojure on
-
 http://www.javadoc.io/doc/org.clojure/clojure
 
 So I stop the follow up ;)
-
-Link to the site : http://PoleKilroySoft.github.io/ClojureJavadoc
 
 ## Versions 
 Here you have the links to the various versions of Clojure's Javadocs, the release of Clojure's 
 sources and the zipped version of the Javadocs.
 
-<p>You can find all versions of Clojure in the <a href="https://repo1.maven.org/maven2/org/clojure/clojure/">Maven repository</a> 
-and changes description between versions on 
-<a href="https://github.com/clojure/clojure/blob/master/changes.md">Clojure GitHub</a>
-</p>
+See upper comment for the next versions...
 
 The Javadocs are generated for protected and public classes and members.
 * [Clojure 1.7.0](http://polekilroysoft.github.io/ClojureJavadoc/clojure-1.7.0-RC1/) 
