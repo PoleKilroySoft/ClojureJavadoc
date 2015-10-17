@@ -5,6 +5,12 @@
 # Clojure Javadoc
 Complete Javadoc for Clojure's JAR access
 
+You can now find the whole complete JavaDocs for all versions of Clojure on
+
+http://www.javadoc.io/doc/org.clojure/clojure
+
+So I stop the follow up ;)
+
 Link to the site : http://PoleKilroySoft.github.io/ClojureJavadoc
 
 ## Versions 
