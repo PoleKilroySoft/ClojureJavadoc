@@ -2,6 +2,7 @@
                     <img src="images/ivanpierrebig.jpg" alt="Ivan Pierre" 
                          style="border:solid 4px lightblue; border-radius: 20px;">
                 </a>
+
 # Clojure Javadoc
 Complete Javadoc for Clojure's JAR access
 
